@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arunava — a 3rd year Computer Science student with an interest in full-stack development and AI. I enjoy building practical projects using Python, Node.js, and exploring machine learning concepts. Currently focused on improving my problem-solving skills and real-world development experience.
+Hi, I'm Arunava — a 4th year Computer Science student with an interest in full-stack development and AI. I enjoy building practical projects using Python, Node.js, and exploring machine learning concepts. Currently focused on improving my problem-solving skills and real-world development experience.
 
 
 ## 🌐 Socials:
